@@ -335,7 +335,7 @@ const App = () => {
                 </div>
 
                 <div className='container-footer'>
-                    Copyright @ 2500030716. All rights reserved.
+                    Copyright @ 2500032160. All rights reserved.
                 </div>
             </div>
 
